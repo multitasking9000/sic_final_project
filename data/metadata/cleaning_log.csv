@@ -1,0 +1,35 @@
+path,reason
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/11565.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/8456.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/10401.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/10797.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/2877.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/8736.jpg,exact duplicate with conflicting labels
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/5673.jpg,tiny image (min side < 32)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/835.jpg,near-uniform image
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/11974.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/1639.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/1930.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/2339.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/3345.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/3910.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/4435.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/4575.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/4667.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/4726.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/6204.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/7545.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/7912.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/8137.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/9240.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/9588.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Cat/9966.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/3082.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/6058.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/6700.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/74.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/8044.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/8087.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/8591.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/980.jpg,exact duplicate (extra copy)
+/workspace/sic_final_project/Cats and Dogs Classification Dataset/Dog/9956.jpg,exact duplicate (extra copy)

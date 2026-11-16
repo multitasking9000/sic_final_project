@@ -1,0 +1,27 @@
+{
+  "label_map": {
+    "Cat": 0,
+    "Dog": 1
+  },
+  "seed": 42,
+  "image_sizes": {
+    "ml": 64,
+    "cnn": 128,
+    "pretrained": 224
+  },
+  "resize": "direct resize to square (stretch), PIL BILINEAR",
+  "color": "RGB",
+  "storage": "uint8; divide by 255 per batch",
+  "imagenet_mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "imagenet_std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "split": "StratifiedGroupKFold(20 folds): 3 test, 3 val, 14 train",
+  "n_images": 24964
+}
