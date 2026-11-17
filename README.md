@@ -29,7 +29,7 @@ The project explores image classification using traditional machine learning, cu
 ## Project Structure
 
 ```text
-cat-dog-ai-capstone/
+sic_final_project/
 ├── data/
 │   ├── metadata/
 │   ├── splits/
